@@ -1,7 +1,7 @@
-id=SystemlessShaker
-name=SystemlessShaker
+id=hide_boot
+name=hide_boot
 version=0.0.0
-versionCode=2025031501
-author=LIghtJUNction
-description=基于ZygiskNext 修改加速度传感器数据实现模拟摇动
-updateJson=http://raw.githubusercontent.com/LIghtJUNction/RootManage-Module-Model/main/update.json
+versionCode=2025040801
+author=Tsz
+description=伪装启动异常
+updateJson=http://raw.githubusercontent.com/misstokens/RootManage-Module-Model/main/update.json
